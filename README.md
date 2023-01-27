@@ -14,10 +14,13 @@ In This challenge, ditrict-wide standardized test results are being analyzed. Af
 
 
 -  Average Math Score and % Passing Math ( especially) is very low in Bottom 5 performing schools compared to Highest 5 performing schools
-
-   ![image](https://user-images.githubusercontent.com/102982635/215204559-defb2dd6-222d-4697-a7a6-df806d365eed.png)
    
-   ![image](https://user-images.githubusercontent.com/102982635/215204610-2fa472db-a924-4b4f-9faf-9211a6e46591.png)
+   ![image](https://user-images.githubusercontent.com/102982635/215205044-14f39f2a-1e59-431c-a362-4e9d24fe968a.png)
+   ![image](https://user-images.githubusercontent.com/102982635/215205098-eb8354b1-219b-4fa7-bec4-fde6a301ede3.png)
+
+   ![image](https://user-images.githubusercontent.com/102982635/215205156-13a16aa6-8069-4cc0-b397-7c643c1100fb.png)
+   ![image](https://user-images.githubusercontent.com/102982635/215205212-8a7af19e-47e5-4c49-bbb4-b8ff3ec9ba54.png)
+  
 
 -  Charter Schools have better % Overall Passing and % Passing Math compared to District schools. Further Analysis will be helpful to know if 
    these passing rates are better due to better teachers and their teaching methods or due to smaller school size in Charter schools compared 
