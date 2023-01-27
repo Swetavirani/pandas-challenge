@@ -1,7 +1,7 @@
 ## PyCitySchools_Challenge
 
 
-In This challenge, ditrict-wide standardized test results are being analyzed. After extracting ,aggregating and reviewing every student's math and reading scores and various other information of the schools, below is the analysis :
+In this challenge, ditrict-wide standardized test results are being analyzed. After extracting ,aggregating and reviewing every student's math and reading scores and various other information of the schools, below is the analysis :
 
 -  Overall passing percentage is better for lower budget spending ranges (per student) that higher budget spending ranges (per student)
 
